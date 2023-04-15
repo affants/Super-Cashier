@@ -1,7 +1,7 @@
 # Super-Cashier Program
 
 
-Super-Cashier programa adalah program untuk menghitung total belanja pelanggan sesuai dengan apa yang dibeli oleh pelanggan
+Super-Cashier program adalah program untuk menghitung total belanja pelanggan sesuai dengan apa yang dibeli oleh pelanggan
 
 # Latar Belakang
 
