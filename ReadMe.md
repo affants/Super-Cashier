@@ -424,25 +424,25 @@ Script `Cashier.py` berfungsi untuk menjalankan program perhitungan belanja pela
 
     Output:
 
-    ![Alt text](tes1.png)
+    ![Alt text](Tes%20Case/tes1.png)
 
 2. Menghapus pasta gigi yang sudah ada
 
     Output:
 
-    ![Alt text](tes2.png)
+    ![Alt text](Tes%20Case/tes2.png)
 
 3. Menghapus seluruh transaksi
 
     Output:
 
-    ![Alt text](tes3.png)
+    ![Alt text](Tes%20Case/tes3.png)
 
 4. Menghitung total belanja
 
     Output:
 
-    ![Alt text](tes4.png)
+    ![Alt text](Tes%20Case/tes4.png)
 
 
 # Conclusion
